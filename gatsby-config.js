@@ -1,8 +1,8 @@
 module.exports = {
   pathPrefix: "/cv",
   siteMetadata: {
-    title: "Gatsby Starter - Dimension V2",
-    author: "Hunter Chang",
+    title: "Yuki Matti Wada/cv",
+    author: "Yuki Matti Wada",
     description: "A Gatsby.js V2 Starter based on Dimension by HTML5 UP"
   },
   plugins: [
