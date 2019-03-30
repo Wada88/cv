@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/cv",
   siteMetadata: {
     title: "Gatsby Starter - Dimension V2",
     author: "Hunter Chang",
